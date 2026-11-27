@@ -118,3 +118,4 @@
 - patch 66 — json lens
 - patch 67 — json lens
 - patch 68 — json lens
+- patch 69 — json lens
