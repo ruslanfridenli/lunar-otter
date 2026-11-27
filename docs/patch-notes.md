@@ -131,3 +131,4 @@
 - patch 79 — json lens
 - patch 80 — json lens
 - patch 81 — json lens
+- patch 82 — json lens
