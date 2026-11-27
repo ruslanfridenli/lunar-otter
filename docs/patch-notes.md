@@ -101,3 +101,4 @@
 - patch 49 — json lens
 - patch 50 — json lens
 - patch 51 — json lens
+- patch 52 — json lens
